@@ -1,0 +1,18 @@
+{
+  "name": "postcss-transform-mini",
+  "version": "1.0.1",
+  "description": "将h5的css样式转为小程序可以使用的css ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postcss",
+    "css",
+    "mini",
+    "h5",
+    "taro"
+  ],
+  "author": "yaunfei",
+  "license": "ISC"
+}
